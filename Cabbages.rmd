@@ -17,10 +17,16 @@ veggy <- cabbages
 # Introduction
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
- The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions  
- 
+   
+   
+ The cabbages data from the MASS package is loaded into a dataframe called veggy. Complete this report by answering the following two questions.   
+   
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
-
+  
+$H_0$: the null hypothesis is that There is no difference in VitC content due to cultivation.
+  
+$H_A$: the alternative hypothesis is that There is a difference in VitC content due to cultivation.
+  
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
